@@ -1,12 +1,3 @@
-// At the top of the self-executing function
-console.log("WaspLine Reader initialized");
-
-// Inside the message listener
-chrome.runtime.onMessage.addListener((message) => {
-  console.log("Message received:", message);
-  // rest of the code
-});
-
 (function() {
 'use strict';
 
