@@ -9,6 +9,7 @@ extension/contentScript.js
 node_modules/
 npm-debug.log
 yarn-error.log
+package.json
 package-lock.json
 
 # Generated extension files
@@ -25,4 +26,6 @@ package-lock.json
 .web-ext-artifacts/
 
 # Duplicate repository folder
+
 waspline-reader/
+package.json
