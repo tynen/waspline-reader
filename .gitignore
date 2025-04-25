@@ -1,2 +1,28 @@
 waspLineReader.zip
 extension/contentScript.js
+# Build directories
+build/
+builds/
+extension/contentScript.js
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Generated extension files
+*.zip
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Firefox for Android debugging
+.web-ext-artifacts/
+
+# Duplicate repository folder
+waspline-reader/
