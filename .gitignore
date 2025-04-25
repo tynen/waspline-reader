@@ -26,6 +26,6 @@ package-lock.json
 .web-ext-artifacts/
 
 # Duplicate repository folder
+
 waspline-reader/
-package.json
 package.json
